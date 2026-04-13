@@ -2,11 +2,23 @@
 
 ## Overview
 
-This week involved setting up a GNS3 project and configuring a host node with a static IP address.
+This week involved setting up a GNS3 project and configuring a host node with a static IP addres
+
 
 ## Screenshots
+ 
+### GNS3 Setup
 
-(To be added)
+![GNS Setup](gns3_setup.png)
+ 
+### Network Configuration
+
+![IP Config](ip_config.png)
+ 
+### Verification
+
+![Verification](ip_verification.png)
+ 
 
 ## Configuration
 
