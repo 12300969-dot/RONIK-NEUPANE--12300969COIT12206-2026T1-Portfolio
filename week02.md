@@ -22,7 +22,7 @@ The following IP addresses were used in the LAN:
 
 ### Network Topology
 
-![ Network Topology](network.png)
+![Network Topology](network.png)
 
 ### Host1 IP Verification
 
@@ -56,15 +56,15 @@ This command sent 5 packets, waited 2 seconds between packets, and used a data s
 
 ### Simple Ping
 
-![Simple Ping](week2_ping_simple.png)
+![Simple Ping](ping_simple ping.png)
 
 ### Ping to Wrong IP Address
 
-![Ping Error](week2_ping_error.png)
+![Ping Error](ping_error ping.png)
 
 ### Ping with Options
 
-![Ping Options](week2_ping_options.png)
+![Ping Options](ping_options.png)
 
 ## Conclusion
 
