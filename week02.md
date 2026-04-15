@@ -26,19 +26,19 @@ The following IP addresses were used in the LAN:
 
 ### Host1 IP Verification
 
-![Host1 IP Address](host1.png)
+![Host1 IP Address](host 1.png)
 
 ### Host2 IP Verification
 
-![Host2 IP Address](host2.png)
+![Host2 IP Address](host 2.png)
 
 ### Host3 IP Verification
 
-![Host3 IP Address](host3.png)
+![Host3 IP Address](host 3.png)
 
 ### Host4 IP Verification
 
-![Host4 IP Address](host4.png)
+![Host4 IP Address](host 4.png)
 
 ## Task 2: Testing Network Connectivity and Delay with Ping
 
