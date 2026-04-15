@@ -5,36 +5,36 @@
 
 ## Network Topology
 
-![Topology](images/week6_topology.jpg)
+![Topology](images/topology.jpg)
 
 ## Host Configuration
 
 ### Left-side hosts
-![HostA](images/week6_hostA_config.png)
-![HostB](images/week6_hostB_config.png)
-![HostC](images/week6_hostC_config.png)
-![HostD](images/week6_hostD_config.png)
+![HostA](images/hostA_config.png)
+![HostB](images/hostB_config.png)
+![HostC](images/hostC_config.png)
+![HostD](images/hostD_config.png)
 
 ### Right-side hosts
-![Host1](images/week6_host1_config.png)
-![Host2](images/week6_host2_config.png)
-![Host3](images/week6_host3_config.png)
-![Host4](images/week6_host4_config.png)
+![Host1](images/host1_config.png)
+![Host2](images/host2_config.png)
+![Host3](images/host3_config.png)
+![Host4](images/host4_config.png)
 
 ## Router Configuration
 
 ### Router 1
-![Router1 Part 1](images/week6_router1_config1.png)
-![Router1 Part 2](images/week6_router1_config2.png)
+![Router1 Part 1](images/router1_config1.png)
+![Router1 Part 2](images/router1_config2.png)
 
 ### Router 2
-![Router2 Part 1](images/week6_router2_config1.png)
-![Router2 Part 2](images/week6_router2_config2.png)
+![Router2 Part 1](images/router2_config1.png)
+![Router2 Part 2](images/router2_config2.png)
 
 ## Explanation
 
-This week’s task shows a network created in GNS3 with multiple hosts and routers. Each host was configured using static IP addressing. The routers were configured to connect different parts of the network and allow communication between subnets. The screenshots show the configuration completed on each device and the overall topology used for the practical task.
+This network was created in GNS3 using multiple hosts and routers. Static IP addressing was configured on all hosts, and routers were used to connect different networks. The screenshots show the successful configuration of each device.
 
 ## Conclusion
 
-The Week 6 network configuration was completed successfully. Hosts and routers were configured correctly in GNS3, and the screenshots provide evidence of the topology and device setup.
+The Week 6 task was successfully completed by configuring hosts and routers and verifying the network setup.
