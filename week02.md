@@ -22,23 +22,23 @@ The following IP addresses were used in the LAN:
 
 ### Network Topology
 
-![Week 2 Network Topology](week2_network.png)
+![ Network Topology](network.png)
 
 ### Host1 IP Verification
 
-![Host1 IP Address](week2_host1.png)
+![Host1 IP Address](host1.png)
 
 ### Host2 IP Verification
 
-![Host2 IP Address](week2_host2.png)
+![Host2 IP Address](host2.png)
 
 ### Host3 IP Verification
 
-![Host3 IP Address](week2_host3.png)
+![Host3 IP Address](host3.png)
 
 ### Host4 IP Verification
 
-![Host4 IP Address](week2_host4.png)
+![Host4 IP Address](host4.png)
 
 ## Task 2: Testing Network Connectivity and Delay with Ping
 
