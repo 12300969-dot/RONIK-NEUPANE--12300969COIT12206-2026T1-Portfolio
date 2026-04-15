@@ -26,19 +26,19 @@ The following IP addresses were used in the LAN:
 
 ### Host1 IP Verification
 
-![Host1 IP Address](host 1.png)
+![Host1 IP Address](host_1.png)
 
 ### Host2 IP Verification
 
-![Host2 IP Address](host 2.png)
+![Host2 IP Address](host_2.png)
 
 ### Host3 IP Verification
 
-![Host3 IP Address](host 3.png)
+![Host3 IP Address](host_3.png)
 
 ### Host4 IP Verification
 
-![Host4 IP Address](host 4.png)
+![Host4 IP Address](host_4.png)
 
 ## Task 2: Testing Network Connectivity and Delay with Ping
 
@@ -56,11 +56,11 @@ This command sent 5 packets, waited 2 seconds between packets, and used a data s
 
 ### Simple Ping
 
-![Simple Ping](ping_simple ping.png)
+![Simple Ping](ping_simpleping.png)
 
 ### Ping to Wrong IP Address
 
-![Ping Error](ping_error ping.png)
+![Ping Error](ping_errorping.png)
 
 ### Ping with Options
 
