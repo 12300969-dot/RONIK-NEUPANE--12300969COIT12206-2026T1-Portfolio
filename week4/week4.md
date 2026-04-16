@@ -96,7 +96,7 @@ This output shows the routes that were shared between routers using OSPF.
 
 ## Traceroute 1
 
-![Traceroute 1](task2_traceoute_1.png)
+![Traceroute 1](task2_traceroute_1.png)
 
 This traceroute shows the path taken by packets through the network.
 
@@ -104,7 +104,7 @@ This traceroute shows the path taken by packets through the network.
 
 ## Traceroute 2
 
-![Traceroute 2](task2_traceoute_2.png)
+![Traceroute 2](task2_traceroute_2.png)
 
 This traceroute also confirms that communication between networks is working properly.
 
